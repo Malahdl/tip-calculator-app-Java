@@ -1,15 +1,11 @@
-#-Welcome to the Notes app!
+Welcome to the Tip Calculator app!
 
 DESCRIPTION:
-This is a simple JavaScript app where you can create notes and display them as note cards in your page.
+This is a simple JavaFX app where you can calculate any amount of tip of any amount.
 
 FEATURES:
-1. You can create new notes without any limit.
-2. You can edit your notes.
-3. You can remove any note.
-4. Your notes will be saved in your local storage so that they don't disappear with every loading.
-5. You can view your notes in full page.
-6. You can search your notes by their title.
+1. You can enter any amount of money to be calculated.
+2. You can set the amount of tip percentage to be calculated.
 
 IMORTANT NOTES:
 * You can watch the demonstration video for more clarity.
