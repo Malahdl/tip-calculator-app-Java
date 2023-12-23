@@ -1,12 +1,12 @@
-Welcome to the Tip Calculator app!
+# Welcome to the Tip Calculator app!
 
-DESCRIPTION:
+# Description:
 This is a simple JavaFX app where you can calculate any amount of tip of any amount.
 
-FEATURES:
+# Features:
 1. You can enter any amount of money to be calculated.
 2. You can set the amount of tip percentage to be calculated.
 
-IMORTANT NOTES:
-* You can watch the demonstration video for more clarity.
+# Important Notes:
+* You can watch the demonstration video from the "demonstration" folder for more clarity.
 * You can see some snapshots of the app in the "samples" folder.
